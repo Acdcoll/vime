@@ -1,0 +1,8 @@
+vime:
+    resource: "@VimeBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
